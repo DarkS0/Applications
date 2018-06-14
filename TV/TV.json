@@ -10,7 +10,7 @@
   },
   "debug": {
     "changelog":"This is a changelog",
-    "url":"https://raw.githubusercontent.com/DarkS0/Applications/master/TV/app-debug.apk",
+    "url":"https://github.com/DarkS0/Applications/blob/master/TV/app-debug.apk?raw=true",
     "version":"0.0.0"
   }
 }
