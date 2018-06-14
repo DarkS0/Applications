@@ -9,7 +9,8 @@
   "alpha": {
   },
   "debug": {
-    "version": "0.0.0",
-    "url": "url"
+    "changelog":"This is a changelog",
+    "url":"url",
+    "version":"0.0.0"
   }
 }
